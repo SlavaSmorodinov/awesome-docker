@@ -53,6 +53,7 @@ _Source:_ [What is Docker](https://www.docker.com/whatisdocker/)
  * [Security](#security)
  * [Performances](#performances)
  * [Raspberry Pi & ARM](#raspberry-pi--arm)
+ * [Logging and Monitoring](#logging-and-monitoring)
  * [Other](#other)
 * [Books](#books)
 * [Tools](#tools)
@@ -228,6 +229,8 @@ _Source:_ [What is Docker](https://www.docker.com/whatisdocker/)
 * [Installing, running, using Docker on armhf (ARMv7) devices](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-%28ARMv7%29-devices)
 * [How to run 2500 webservers on a Raspebery Pi](http://blog.loof.fr/2015/10/how-to-run-2500-webservers-on-raspberry.html)
 
+## Logging and Monitoring
+* [Collecting docker logs and stats with Splunk](http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/)
 
 ## Other
 * Presentation: Docker and JBoss - the perfect combination
